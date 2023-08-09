@@ -1,0 +1,5 @@
+com\calculator\calculatordemo\CalculatorDemoApplication.class
+com\calculator\calculatordemo\repository\CalculatorRepository.class
+com\calculator\calculatordemo\controller\CalculatorController.class
+com\calculator\calculatordemo\model\Calculator.class
+com\calculator\calculatordemo\service\CalculatorService.class
